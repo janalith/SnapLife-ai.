@@ -1,0 +1,9 @@
+{
+  "name": "SnapLife AI",
+  "short_name": "SnapLife",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#14243d",
+  "description": "Save, organize and find important information from your pictures."
+}
